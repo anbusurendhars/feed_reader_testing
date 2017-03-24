@@ -2,11 +2,11 @@
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
-## GUIDE TO GET STARTED WITH THIS PROJECT
+## Guide to get started with this project
 
 Please find a file named **_index.html_** in this repository and open it in any browser. As the jasmine testing framework is included in this project, it will make an automated test across the whole application. The test results for the page will be shown at the end of the page.
 
-### What are the tests Accomplished?
+### What are the tests/tasks accomplished?
 
 **RSS Feeds**
 * Does RSS Feeds are defined?
