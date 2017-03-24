@@ -11,9 +11,9 @@ Please find a file named **_index.html_** in this repository and open it in any 
 **RSS Feeds**
 * Does RSS Feeds are defined?
 * Does each feed's url is defined?
-* Does each feed's url is not empty?
+* Does each feed's url is non-empty?
 * Does each feed's name is defined?
-* Does each feed's name is not empty?
+* Does each feed's name is non-empty?
 
 **The menu**
 * Does the menu is hidden by default?
