@@ -21,7 +21,6 @@ Please find a file named **_index.html_** in this repository and open it in any 
 
 **Initial Entries**
 * Does Initial Entries have atleast one feed?
-* Does the visibility changes when the menu link is click?
 
 **New Feed Selection**
 * Does the feed content actually change when new feed is loaded asynchronously?
